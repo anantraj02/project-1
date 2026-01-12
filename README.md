@@ -1,2 +1,2 @@
 # project-1
-THIS IS MY FIRST GITHUB REPOSITORY FOR LEARNING CONTROL
+this is my second commit
